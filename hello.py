@@ -1,0 +1,1 @@
+print("Dwayne") #function that prints something to console
